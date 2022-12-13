@@ -2,6 +2,7 @@
 
 Below is a list of SQL projects I've compiled and uploaded to GitHub. Please feel free to look through these projects.
 
+
 SpeedySpoon-Data-Aggregation
 https://github.com/cjfuentes-datascience/SpeedySpoon-Data-Aggregation-SQL
 

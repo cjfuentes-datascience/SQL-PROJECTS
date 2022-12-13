@@ -17,14 +17,14 @@ https://github.com/cjfuentes-datascience/Airline-Table-Transformations-SQL
 5. Tranforming-Flight-Tables
 https://github.com/cjfuentes-datascience/Tranforming-Flight-Tables-SQL
 
-Set-Operations
+6. Set-Operations
 https://github.com/cjfuentes-datascience/Set-Operations-SQL
 
-Customer-Segmentation
+7. Customer-Segmentation
 https://github.com/cjfuentes-datascience/Customer-Segmentation-SQL
 
-New-York-Restaurants 
+8. New-York-Restaurants 
 https://github.com/cjfuentes-datascience/New-York-Restaurants-SQL
 
-Fraud-Detection
+9. Fraud-Detection
 https://github.com/cjfuentes-datascience/Fraud-Detection-Python

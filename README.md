@@ -28,3 +28,6 @@ https://github.com/cjfuentes-datascience/New-York-Restaurants-SQL
 
 9. Fraud-Detection
 https://github.com/cjfuentes-datascience/Fraud-Detection-Python
+
+10. Analyze-Hacker-News-Trends 
+https://github.com/cjfuentes-datascience/Analyze-Hacker-News-Trends-SQL
